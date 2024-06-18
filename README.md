@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/GvXCZgfk)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15295386&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-4
 Assignment: GitHub and Visual Studio
 Instructions:
@@ -8,6 +10,8 @@ Introduction to GitHub:
 
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
 Repositories on GitHub:
+
+- 
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 Version Control with Git:
@@ -41,3 +45,6 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+
+below is the link to the answers of the above questions 
+https://docs.google.com/document/d/15WsIwGyzCJekVM2SDuvptJGd4Oq_jSveyNhtPmcCGwg/edit?usp=sharing
